@@ -14,6 +14,10 @@
 
 This repository contains my **Java + DSA programs written topic-wise** to build strong problem-solving skills and a solid programming foundation.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
+
 It includes:
 - Core Java fundamentals  
 - Data Structures implementation  
