@@ -68,9 +68,7 @@ It includes:
 - Merge Sort  
 - Quick Sort  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
-</p>
+
 
 ---
 
@@ -80,6 +78,9 @@ It includes:
 - Tree Traversals  
 - Recursion  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
+</p>
 ---
 
 ## 📊 Graphs
