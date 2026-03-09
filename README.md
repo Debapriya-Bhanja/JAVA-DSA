@@ -12,10 +12,6 @@
 
 ## 📌 About This Repository
 
-<p align="center">
-  <img src="./assets/dsa.gif" width="420"/>
-</p>
-
 This repository contains my **Java + DSA programs written topic-wise** to build strong problem-solving skills and a solid programming foundation.
 
 
