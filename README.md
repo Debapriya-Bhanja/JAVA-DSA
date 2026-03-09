@@ -86,9 +86,7 @@ It includes:
 - Graph Representation  
 - BFS  
 - DFS  
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="420"/>
-</p>
+
 ---
 
 ## 🧠 Sample Code (Binary Search)
