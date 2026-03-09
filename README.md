@@ -70,7 +70,9 @@ It includes:
 - Merge Sort  
 - Quick Sort  
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="420"/>
+</p>
 
 ---
 
