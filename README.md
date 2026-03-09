@@ -60,7 +60,9 @@ It includes:
 
 - Linear Search  
 - Binary Search  
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="420"/>
+</p>
 ---
 
 ## 🔄 Sorting Algorithms
