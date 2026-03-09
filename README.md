@@ -78,9 +78,7 @@ It includes:
 - BST  
 - Tree Traversals  
 - Recursion  
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="420"/>
-</p>
+
 ---
 
 ## 📊 Graphs
@@ -88,7 +86,9 @@ It includes:
 - Graph Representation  
 - BFS  
 - DFS  
-
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="420"/>
+</p>
 ---
 
 ## 🧠 Sample Code (Binary Search)
